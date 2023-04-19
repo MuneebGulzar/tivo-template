@@ -1,7 +1,8 @@
 import React from 'react'
 import '../styles/login.scss';
 import Footer from "./Footer";
-import { Link } from 'react-router-dom';
+import { Link, } from 'react-router-dom';
+// import {Link, animateScroll as scroll } from 'react-scroll';
 const Login = () => {
   return (
     <>
