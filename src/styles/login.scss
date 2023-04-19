@@ -1,0 +1,54 @@
+@import "colors";
+.login-container {
+  width: 100vw;
+  height: 15rem;
+  background-color: $third;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  > h1 {
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: $first;
+  }
+}
+.form-container{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    > form{
+        background-color: $fifth;
+        width: 40%;
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        > input{
+            padding: 1rem;
+            width: 90%;
+            &:focus{
+            outline: 5px solid lightblue;
+
+            }
+        }
+        > button{
+            width: 90%;
+            padding: 1rem;
+            background-color: $third;
+            color: $first;
+            border: 1px solid $third;
+            border-radius: 1.5rem;
+            font-size: 1.2rem;
+            transition-duration: .5s;
+            &:hover{
+                background-color: $first;
+                color: $third;
+                cursor: pointer;
+            }
+        }
+    }
+}
