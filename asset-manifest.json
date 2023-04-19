@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MuneebGulzar/tivo-template/static/css/main.f3e2cfce.css",
+    "main.js": "/MuneebGulzar/tivo-template/static/js/main.b9cc347e.js",
+    "static/media/description-icon-1.svg": "/MuneebGulzar/tivo-template/static/media/description-icon-1.e2788ac0486b05784e905670611228f7.svg",
+    "static/media/description-icon-2.svg": "/MuneebGulzar/tivo-template/static/media/description-icon-2.15abe19aad97defcc8ae9f64e5e311b6.svg",
+    "static/media/description-icon-3.svg": "/MuneebGulzar/tivo-template/static/media/description-icon-3.b40410de6eb7bb2052f459450f699da0.svg",
+    "static/media/video-preview.svg": "/MuneebGulzar/tivo-template/static/media/video-preview.fd8af106e87820690abf3b760afd986a.svg",
+    "static/media/header.svg": "/MuneebGulzar/tivo-template/static/media/header.fb10b5969dadf52b64fe26cfc8f8da0e.svg",
+    "static/media/feature-app-2.svg": "/MuneebGulzar/tivo-template/static/media/feature-app-2.65e5375344e328bb32777c4c14c88ee5.svg",
+    "static/media/details.svg": "/MuneebGulzar/tivo-template/static/media/details.84a93ff9dbef957a9b24c70bfd609427.svg",
+    "static/media/feature-app-3.svg": "/MuneebGulzar/tivo-template/static/media/feature-app-3.cc12977423701316d04a760d1339867d.svg",
+    "static/media/feature-app-1.svg": "/MuneebGulzar/tivo-template/static/media/feature-app-1.1db89f48bcab3033bc99fcb34b68a467.svg",
+    "index.html": "/MuneebGulzar/tivo-template/index.html",
+    "main.f3e2cfce.css.map": "/MuneebGulzar/tivo-template/static/css/main.f3e2cfce.css.map",
+    "main.b9cc347e.js.map": "/MuneebGulzar/tivo-template/static/js/main.b9cc347e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e2cfce.css",
+    "static/js/main.b9cc347e.js"
+  ]
+}
