@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## DEMO
-[https://muneebgulzar.github.io/tivo-template/](https://muneebgulzar.github.io/tivo-template/)
+Under development: [https://muneebgulzar.github.io/tivo-template/](https://muneebgulzar.github.io/tivo-template/)
 ## Available Scripts
 
 In the project directory, you can run:
