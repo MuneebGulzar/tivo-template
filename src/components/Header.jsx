@@ -6,7 +6,7 @@ import Logo from '../assets/logo.png';
 const Header = () => {
   return (
     <nav>
-        <HashLink to='/#home'><img src={Logo} alt="Logo" /></HashLink>
+        <HashLink to='/'><img src={Logo} alt="Logo" /></HashLink>
         <main>
             <HashLink to='/#home'>Home</HashLink>
             <HashLink to='/#features'>Features</HashLink>
