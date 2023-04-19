@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tivo-template/static/css/main.e65f2121.css",
-    "main.js": "/tivo-template/static/js/main.de2aa896.js",
+    "main.js": "/tivo-template/static/js/main.6b73eb9e.js",
     "static/media/description-icon-1.svg": "/tivo-template/static/media/description-icon-1.e2788ac0486b05784e905670611228f7.svg",
     "static/media/description-icon-2.svg": "/tivo-template/static/media/description-icon-2.15abe19aad97defcc8ae9f64e5e311b6.svg",
     "static/media/description-icon-3.svg": "/tivo-template/static/media/description-icon-3.b40410de6eb7bb2052f459450f699da0.svg",
@@ -13,10 +13,10 @@
     "static/media/feature-app-1.svg": "/tivo-template/static/media/feature-app-1.1db89f48bcab3033bc99fcb34b68a467.svg",
     "index.html": "/tivo-template/index.html",
     "main.e65f2121.css.map": "/tivo-template/static/css/main.e65f2121.css.map",
-    "main.de2aa896.js.map": "/tivo-template/static/js/main.de2aa896.js.map"
+    "main.6b73eb9e.js.map": "/tivo-template/static/js/main.6b73eb9e.js.map"
   },
   "entrypoints": [
     "static/css/main.e65f2121.css",
-    "static/js/main.de2aa896.js"
+    "static/js/main.6b73eb9e.js"
   ]
 }
