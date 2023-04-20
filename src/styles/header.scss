@@ -42,3 +42,21 @@ nav{
         }
     }
 }
+@media screen and (max-width: 768px){
+    nav{
+        flex-direction: column;
+        height: 8rem;
+        > main{
+            width: 95vw;
+        }
+    }
+
+}
+@media screen and (min-width: 769px) and (max-width: 1279px){
+    nav{
+        > main{
+            width: 50vw;
+        }
+    }
+
+}

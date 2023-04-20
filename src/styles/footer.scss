@@ -17,6 +17,9 @@ footer{
       > p{
         width: 40%;
       }
+      > h3{
+        text-transform: capitalize;
+      }
     }
     > .links{
       display: flex;
@@ -39,6 +42,21 @@ footer{
           color: $first;
           cursor: pointer;
         }
+      }
+    }
+  }
+  @media screen and (max-width: 480px) {
+    footer{
+      flex-direction: column;
+      padding: 1rem;
+      > .about{
+        > p{
+          width: 100%;
+        }
+      }
+      > .links{
+        width: 100%;
+        justify-content: flex-start;
       }
     }
   }
